@@ -222,3 +222,4 @@ Thanks to BrowserStack!
 ## License
 
 [MIT](https://github.com/nuxt/nuxt.js/blob/dev/LICENSE.md)
+
